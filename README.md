@@ -10,3 +10,13 @@ Next things to be done:
 3. Define UX of the framework supporting users to easily and quickly generate contents with their avatars
 4. Define MVP framework for 3 and start implementing
 5. Merge content-creation framework with app and launch
+
+## Content-creation-framework
+I think using a Zepeto-like approach leveraging Unity would be nice.
+
+## App
+I think using an Only-fans approach from the beginning to remunerate users generating content is key.
+
+## Result
+Result would be a "OnlyFans meets Zepeto" solution where people could find most creative and unique erotic/porn stories animated by Avatars in the Metaverse. That's fun!!!!!!
+
